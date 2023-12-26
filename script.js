@@ -4,6 +4,7 @@ let scicers = document.querySelector(".scicers");
 let result = document.querySelector(".result");
 let downloadButton = document.querySelector(".download-button");
 
+
 rock.addEventListener("click", function () {
     playGame("Камень");
 });
