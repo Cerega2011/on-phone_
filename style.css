@@ -1,0 +1,32 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    border: 3px;
+    border-radius: 5px;
+    padding: 7px 10px;
+    cursor: pointer;
+    text-transform: lowercase;
+}
+
+.game {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.download-button {
+    background-color: greenyellow;
+    border: 3px;
+    border-radius: 5px;
+    padding: 7px 10px;
+    cursor: pointer;
+    text-transform: lowercase;
+}
